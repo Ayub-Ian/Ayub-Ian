@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning : Ruby, MySQL, GSAP animations
+- 🤔 I’m looking for help with : Writing optimized and DRY code
+- 💬 Ask me about : Javascript, React, Arsenal FC, Cars (F1)
+- 📫 How to reach me: at my email **iayub.mia@gmail.com**
+- ⚡ Fun fact: Shhh!!! Don't tell anyone but I'm a superhero 🦸‍♂️ in my free time. 
+
+
