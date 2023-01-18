@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm Ayub Ian
+
+WEB DEVELOPER | FRONT-END DEVELOPER | AI ENTHUSIAST | FOOTBALL FANATIC
+
 <!--
 **Ayub-Ian/Ayub-Ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
