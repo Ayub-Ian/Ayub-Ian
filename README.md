@@ -1,28 +1,28 @@
-### Hi there 👋
+### Hey, I'm Ayub 👋 
 
-### I'm Ayub Ian
+I'm a full stack developer based in Kenya and I'm passionate about crafting tech solutions and digital experiences. 
 
-WEB DEVELOPER | FRONT-END DEVELOPER | AI ENTHUSIAST | FOOTBALL FANATIC
+- Check out my [website](https://portfolio-ayub-ian.vercel.app/) to learn more about me.
+- Explore my [mini-blog]() where I share insights and learnings.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ayub-ian) and [Twitter](https://x.com/ianayub).
+- Explore my [Code Configuration]() for development hacks and optimization.
 
-<!--
-**Ayub-Ian/Ayub-Ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Endeavors 
 
-Here are some ideas to get you started:
+I'm currently working as a fullstack developer in Kenya, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm engaged in exciting fullstack projects. Currently  working on an [escrow application](https://github.com/Ayub-Ian/pigeon-pay)
+- I'm mostly working with Python and Javascript (libraries and frameworks included for both) to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
 
-- 🌱 I’m currently learning : OOP
-- 🤔 I’m looking for help with : Writing optimized and DRY code
-- 💬 Ask me about : Javascript, React, Arsenal FC, Cars (F1)
-- 📫 How to reach me: at my email **iayub.mia@gmail.com**
-- ⚡ Fun fact: Shhh!!! Don't tell anyone but I'm a superhero 🦸‍♂️ in my free time. 
+## ✨ Fun Facts 
 
+- One Piece is my favorite anime.
+- I'm a football fanatic and part-time superhero.
+- I think the command line world is an amazing place.
 
+## 📫 Contact
+
+ For a quick response, DM me on [Twitter](https://x.com/ianayub) or [LinkedIn](https://www.linkedin.com/in/ayub-ian). 
+ 
+ For professional inquiries, reach out via email at [iayub.mia@gmail.com](mailto:iayub.mia@gmail.com). 
