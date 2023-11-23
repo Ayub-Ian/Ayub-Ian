@@ -3,9 +3,9 @@
 I'm a full stack developer based in Kenya and I'm passionate about crafting tech solutions and digital experiences. 
 
 - Check out my [website](https://portfolio-ayub-ian.vercel.app/) to learn more about me.
-- Explore my [mini-blog]() where I share insights and learnings.
+- Explore my [learnings repo](https://github.com/Ayub-Ian/learnings) where I share insights and learnings.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ayub-ian) and [Twitter](https://x.com/ianayub).
-- Explore my [Code Configuration]() for development hacks and optimization.
+- Explore my [Code Configuration](https://github.com/Ayub-Ian/code-settings) for development hacks and optimization.
 
 ## 🔭 Current Endeavors 
 
